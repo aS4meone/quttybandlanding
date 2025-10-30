@@ -9,7 +9,7 @@ export function Header() {
   const [isMenuOpen, setIsMenuOpen] = useState(false)
 
   const handleBuyClick = () => {
-    window.open("https://wa.me/77771234567", "_blank")
+    window.open("https://wa.me/+77064460112", "_blank")
   }
 
   return (
@@ -42,7 +42,7 @@ export function Header() {
               Узнать больше
             </Button>
             <Button size="sm" className="bg-accent hover:bg-accent/90" onClick={handleBuyClick}>
-              Купить за 49 999 ₸
+              Купить за 49 990 ₸
             </Button>
           </div>
 
@@ -71,7 +71,7 @@ export function Header() {
                   Узнать больше
                 </Button>
                 <Button size="sm" className="bg-accent hover:bg-accent/90" onClick={handleBuyClick}>
-                  Купить за 49 999 ₸
+                  Купить за 49 990 ₸
                 </Button>
               </div>
             </nav>

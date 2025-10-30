@@ -6,7 +6,7 @@ import { Check, Truck } from "lucide-react"
 
 export function PricingSection() {
   const handleBuyClick = () => {
-    window.open("https://wa.me/77771234567", "_blank")
+    window.open("https://wa.me/+77064460112", "_blank")
   }
 
   return (
@@ -21,7 +21,7 @@ export function PricingSection() {
             <div className="space-y-6">
               <div>
                 <div className="text-4xl sm:text-5xl font-bold text-accent mb-2 flex items-baseline justify-center gap-1">
-                  <span>49 999</span>
+                  <span>49 990</span>
                   <span>₸</span>
                 </div>
                 <div className="text-muted-foreground text-sm sm:text-base">Единоразовая покупка</div>

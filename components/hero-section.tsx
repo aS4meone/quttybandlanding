@@ -28,8 +28,8 @@ export function HeroSection() {
 
             <div className="flex flex-col sm:flex-row gap-4">
               <Button size="lg" className="bg-accent hover:bg-accent/90 text-lg px-8 py-6" asChild>
-                <a href="https://wa.me/77771234567" target="_blank" rel="noopener noreferrer">
-                  Купить за 49 999 ₸
+                <a href="https://wa.me/+77064460112" target="_blank" rel="noopener noreferrer">
+                  Купить за 49 990 ₸
                   <ArrowRight className="ml-2 h-5 w-5" />
                 </a>
               </Button>
