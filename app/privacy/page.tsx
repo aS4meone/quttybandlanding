@@ -25,11 +25,11 @@ export default function PrivacyPage() {
             <p className="mb-4">
               Оператором персональных данных является Qutty Band,
               <br />
-              юридический адрес: Республика Казахстан, г. Алматы, ул. Абая, д. 100.
+              юридический адрес: Республика Казахстан, г. Алматы, ул. Байзакова, д. 234.
               <br />
-              Электронная почта для обращений: support@quttyband.kz
+              Электронная почта для обращений: zholdas.alnur@gmail.com
               <br />
-              Телефон: +7 (777) 123-45-67
+              Телефон: +7(706)446-01-12
             </p>
 
             <h2 className="text-2xl font-bold mt-8 mb-4">3. Какие данные мы собираем</h2>
@@ -57,9 +57,15 @@ export default function PrivacyPage() {
 
             <h2 className="text-2xl font-bold mt-8 mb-4">5. Особенности продукта</h2>
             <p className="mb-4">
-              Фитнес-браслет Qutty Band не является медицинским устройством и не предназначен для диагностики, лечения
-              или профилактики заболеваний. Все полученные данные имеют исключительно справочный и информационный
-              характер.
+              Фитнес-браслет и мобильное приложение Qutty Band <strong>не являются медицинскими устройствами</strong> и
+              не предназначены для диагностики, лечения или профилактики заболеваний. Все полученные данные имеют
+              исключительно справочный и информационный характер и предназначены для общего благополучия и
+              самоконтроля.
+            </p>
+            <p className="mb-4">
+              Результаты, отображаемые в приложении, не должны использоваться для медицинских решений, изменения терапии
+              или дозировок. <strong>Всегда консультируйтесь с врачом</strong> по вопросам здоровья, диагностики и
+              лечения.
             </p>
 
             <h2 className="text-2xl font-bold mt-8 mb-4">6. Хранение и защита данных</h2>
@@ -87,7 +93,7 @@ export default function PrivacyPage() {
             <ul className="list-disc pl-6 mb-4">
               <li>запросить копию своих персональных данных;</li>
               <li>потребовать исправления или удаления данных;</li>
-              <li>отозвать согласие на обработку данных, направив запрос на адрес support@quttyband.kz.</li>
+              <li>отозвать согласие на обработку данных, направив запрос на адрес zholdas.alnur@gmail.com</li>
             </ul>
             <p className="mb-4">
               После получения запроса обработка данных будет прекращена, а информация удалена в течение 30 календарных
@@ -96,7 +102,7 @@ export default function PrivacyPage() {
 
             <h2 className="text-2xl font-bold mt-8 mb-4">9. Cookies и аналитика</h2>
             <p className="mb-4">
-              Сайт-лендинг quttyband.kz не использует cookies и сторонние системы аналитики. Никакие данные о действиях
+              Сайт-лендинг band.qutty.net не использует cookies и сторонние системы аналитики. Никакие данные о действиях
               пользователей на сайте не собираются и не передаются.
             </p>
 
@@ -110,16 +116,16 @@ export default function PrivacyPage() {
             <h2 className="text-2xl font-bold mt-8 mb-4">11. Изменения политики конфиденциальности</h2>
             <p className="mb-4">
               Компания Qutty Band оставляет за собой право вносить изменения в настоящую Политику. Актуальная версия
-              документа всегда доступна на официальном сайте quttyband.kz.
+              документа всегда доступна на официальном сайте band.qutty.net
             </p>
 
             <h2 className="text-2xl font-bold mt-8 mb-4">12. Контакты</h2>
             <p className="mb-4">
               По всем вопросам, связанным с обработкой персональных данных, вы можете обратиться по адресу:
               <br />
-              support@quttyband.kz
+              zholdas.alnur@gmail.com
               <br />
-              +7 (777) 123-45-67
+              +7(706)446-01-12
             </p>
           </div>
 
@@ -142,9 +148,9 @@ export default function PrivacyPage() {
               <br />
               Legal address: Republic of Kazakhstan, Almaty, Abai Street 100.
               <br />
-              Email: support@quttyband.kz
+              Email: zholdas.alnur@gmail.com
               <br />
-              Phone: +7 (777) 123-45-67
+              Phone: +7(706)446-01-12
             </p>
 
             <h2 className="text-2xl font-bold mt-8 mb-4">3. Information We Collect</h2>
@@ -171,9 +177,14 @@ export default function PrivacyPage() {
 
             <h2 className="text-2xl font-bold mt-8 mb-4">5. Product Disclaimer</h2>
             <p className="mb-4">
-              The Qutty Band fitness bracelet is not a medical device and is not intended for diagnosing, treating, or
-              preventing diseases. All health-related data provided by the device or app is for informational and
-              reference purposes only.
+              The Qutty Band fitness bracelet and mobile application are <strong>not medical devices</strong> and are
+              not intended for diagnosing, treating, or preventing diseases. All displayed data is for informational and
+              wellness purposes only.
+            </p>
+            <p className="mb-4">
+              Measurements and estimates should not be used for medical decisions or therapy adjustments.{" "}
+              <strong>Always consult your physician</strong> for questions related to diagnosis, treatment, or health
+              conditions.
             </p>
 
             <h2 className="text-2xl font-bold mt-8 mb-4">6. Data Storage and Security</h2>
@@ -197,7 +208,7 @@ export default function PrivacyPage() {
             <ul className="list-disc pl-6 mb-4">
               <li>request a copy of their personal data;</li>
               <li>request correction or deletion of their data;</li>
-              <li>withdraw consent for data processing by sending a request to support@quttyband.kz.</li>
+              <li>withdraw consent for data processing by sending a request to zholdas.alnur@gmail.com</li>
             </ul>
             <p className="mb-4">
               Upon receiving such a request, data processing will be stopped, and the user's information will be deleted
@@ -206,7 +217,7 @@ export default function PrivacyPage() {
 
             <h2 className="text-2xl font-bold mt-8 mb-4">9. Cookies and Analytics</h2>
             <p className="mb-4">
-              The Qutty Band landing page (quttyband.kz) does not use cookies or third-party analytics services. No
+              The Qutty Band landing page (band.qutty.kz) does not use cookies or third-party analytics services. No
               behavioral or tracking data is collected or transmitted.
             </p>
 
@@ -219,16 +230,16 @@ export default function PrivacyPage() {
             <h2 className="text-2xl font-bold mt-8 mb-4">11. Changes to This Policy</h2>
             <p className="mb-4">
               Qutty Band reserves the right to make changes to this Privacy Policy at any time. The current version of
-              the Policy is always available on the official website quttyband.kz.
+              the Policy is always available on the official website band.qutty.kz.
             </p>
 
             <h2 className="text-2xl font-bold mt-8 mb-4">12. Contact Information</h2>
             <p className="mb-4">
               For all inquiries regarding personal data processing, please contact us at:
               <br />
-              support@quttyband.kz
+              zholdas.alnur@gmail.com
               <br />
-              +7 (777) 123-45-67
+              +7(706)446-01-12
             </p>
           </div>
         </div>

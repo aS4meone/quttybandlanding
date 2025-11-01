@@ -55,8 +55,8 @@ export function Footer() {
           <div className="space-y-4">
             <h3 className="font-semibold">Контакты</h3>
             <ul className="space-y-2 text-sm opacity-80">
-              <li>support@qutty.kz</li>
-              <li>+7 (777) 123-45-67</li>
+              <li>zholdas.alnur@gmail.com</li>
+              <li>+7(706)446-01-12</li>
               <li>Алматы, Казахстан</li>
             </ul>
           </div>
