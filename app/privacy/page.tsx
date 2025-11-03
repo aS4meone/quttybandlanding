@@ -146,7 +146,7 @@ export default function PrivacyPage() {
             <p className="mb-4">
               The data controller is Qutty Band.
               <br />
-              Legal address: Republic of Kazakhstan, Almaty, Abai Street 100.
+              Legal address: Republic of Kazakhstan, Almaty, Bayzakov Street 234.
               <br />
               Email: zholdas.alnur@gmail.com
               <br />
